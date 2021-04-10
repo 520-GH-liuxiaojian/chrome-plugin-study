@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "lesson1",
+    "version": "1.0",
+    "description": "就单纯的学一下插件开发",
+    "author": "xiaojianjian",
+    "icons": {
+        "16": "img/icon.png",
+        "48": "img/icon.png",
+        "128": "img/icon.png"
+    }
+}
